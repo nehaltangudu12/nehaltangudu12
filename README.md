@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a current Sophomore at UIUC studying Mathematics and Computer Science! I am knowledgeable in C++, Python, Java, C# (with the Unity engine), and HTML/CSS. 
 <!--
 **nehaltangudu12/nehaltangudu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
