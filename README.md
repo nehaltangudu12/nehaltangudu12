@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Nehal!</h3>
-<h3>I'm a Sophomore at UIUC studying Mathematics and Computer Science!</h3>
+<h3>I'm a Junior at UIUC studying Mathematics and Computer Science!</h3>
 
 - 👨 Pronouns : (he/him)
 
